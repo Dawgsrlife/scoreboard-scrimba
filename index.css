@@ -40,7 +40,7 @@ body {
 .score {
     font-family: "CursedTimer", sans-serif;
     background-color: black;
-    padding: 1.5rem 2.5rem 0.5rem;
+    padding: 1rem 2.5rem 0.5rem;
     margin: 0 2rem 2rem;
     color: #FF0000;
     font-size: 80px;
